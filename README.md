@@ -34,8 +34,8 @@ With a sleek OpenCV-based graphical interface and robust YOLOv8-powered hand rec
 ### Clone the repository
 
 ```bash
-git clone https://github.com/nulli83/gesture-calculator.git
-cd gesture-calculator
+git clone https://github.com/nulli83/gmathsssss.git
+cd mathsssss
 ```
 
 ### Install dependencies
@@ -48,7 +48,7 @@ pip install ultralytics
 ### Run the application
 
 ```bash
-python main.py
+python mathsssss.py
 ```
 
 ## Use Cases
