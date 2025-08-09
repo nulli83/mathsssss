@@ -1,2 +1,1 @@
-# mathsssss
-mathssss
+inspired by https://www.linkedin.com/posts/saadhana-k-449743326_built-a-virtual-calculator-powered-by-activity-7358051018296729603-popl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFCm7JAB3_ZiYgdDIay-UY4ei98-G6O9ap8
